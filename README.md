@@ -2,7 +2,7 @@
 <div align="left">
   <a href="https://github.com/ksmkayk">
     
-  ![Stats](./profile/stats.svg)
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ksmkayk)](https://github.com/stats-organization/github-stats-extended)
   
 </div>
   
